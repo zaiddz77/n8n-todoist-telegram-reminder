@@ -43,3 +43,6 @@ Personal productivity
 Daily planning
 Task reminders
 Habit tracking
+
+
+<img width="1486" height="515" alt="image" src="https://github.com/user-attachments/assets/7767ddec-fe02-49b7-a5e7-bb273b7f9d9e" />
